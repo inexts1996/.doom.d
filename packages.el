@@ -55,3 +55,5 @@
 (package! org-modern)
 (package! mindre-theme)
 (package! org-superstar)
+(package! csharp-mode)
+(package! omnisharp)
